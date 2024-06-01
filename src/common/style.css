@@ -1,0 +1,10 @@
+.colorFullText {
+    background: linear-gradient(90deg, #1e8bff, #6955ff 45%, #a83af5 50%, #c03ada 75%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.logoTextBharatRajput {
+    font-size: 32px !important;
+    font-weight: 600 !important;
+}

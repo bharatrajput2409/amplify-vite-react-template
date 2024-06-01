@@ -82,17 +82,17 @@ const Header: FC = () => {
 
     const links: Link[] = [
         {
-            label: "resume",
-            href: "https://drive.google.com/file/d/1cqcPSkPL_DSmtZvi7KaJl-3fQb_UZjQI/view",
-            target: "_blank",
+            label: "register",
+            href: "#",
+            target: "_self",
         },
         {
-            label: "projects",
+            label: "contact us",
             href: "#projects",
             target: "_self",
         },
         {
-            label: "contact-me",
+            label: "about us",
             href: "#send-message",
             target: "_self",
         },

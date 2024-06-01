@@ -1,9 +1,9 @@
-import Header from "./common/Header";
+import HomePage from "./Home";
 
 function App() {
   return (
     <main>
-      <Header />
+      <HomePage />
     </main>
   );
 }

@@ -2,9 +2,6 @@ import React from "react";
 import { alpha, Grid, Typography, Box, Link } from "@mui/material";
 
 import FavoriteIcon from "@mui/icons-material/Favorite";
-import MailOutlineIcon from "@mui/icons-material/MailOutline";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import GitHubIcon from "@mui/icons-material/GitHub";
 import constant from "../theme/constants.json";
 
 const styles = {

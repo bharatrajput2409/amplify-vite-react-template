@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardContent, CardMedia, Button, Box, TypographyProps, Typography } from '@mui/material';
+import { Card, CardContent, CardMedia, Button, TypographyProps, Typography } from '@mui/material';
 import { styled } from '@mui/system';
 
 interface UserCardProps {

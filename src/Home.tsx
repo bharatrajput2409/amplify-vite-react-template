@@ -12,7 +12,7 @@ const HomePage: React.FC = () => {
     return (
         <Box sx={{ minHeight: "100vh" }}>
             <Header />
-            <Box sx={{ minHeight: "100vh", padding: 20 }}>
+            <Box sx={{ minHeight: "100vh", paddingTop: 5 }}>
                 <UserCard
                     image={user_image}
                     name="Bharat Singh"
